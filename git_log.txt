@@ -1,0 +1,52 @@
+commit 85db28d3a03f686304b2136dc9064d3dc030050f
+Merge: ffa71c9 502d4e2
+Author: Kyle Hulog <hulogkyle@gmail.com>
+Date:   Wed Sep 9 01:29:44 2026 -0700
+
+    Resolve merge conflict
+
+commit 502d4e20026bcd71fdca33e10e5cba13ebea7cc5
+Author: Kyle Hulog <hulogkyle@gmail.com>
+Date:   Wed Sep 9 01:24:25 2026 -0700
+
+    Add favorite movie
+
+commit ffa71c99273703b26e91f5cc99db2374a36d4e84
+Author: Kyle Hulog <hulogkyle@gmail.com>
+Date:   Wed Sep 9 01:22:32 2026 -0700
+
+    Add more personal information
+
+commit bf4f0ba15b79c354433488a65ef68bd11b6c11e7
+Merge: a496914 b7751f6
+Author: Kyle Hulog <hulogkyle@gmail.com>
+Date:   Wed Sep 9 01:16:25 2026 -0700
+
+    Merge branch 'main' of https://github.com/hulagkyle/CS3338-second-project
+
+commit a49691438fd600bdd74b64dbcf150339521c7912
+Author: Kyle Hulog <hulogkyle@gmail.com>
+Date:   Wed Sep 9 01:15:35 2026 -0700
+
+    Add README file
+
+commit b7751f61aad504fbb97aa416a6fc10ea82582775
+Merge: 1d2bfc0 18804f8
+Author: hulagkyle <hulogkyle@gmail.com>
+Date:   Wed Sep 9 01:11:25 2026 -0700
+
+    Merge pull request #1 from hulagkyle/info-fill
+    
+    Fill in personal information
+
+commit 18804f8724fbaa76155c75168a00057ff8b976f9
+Author: Kyle Hulog <hulogkyle@gmail.com>
+Date:   Wed Sep 9 00:37:47 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
